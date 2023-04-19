@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root [file:/Users/junlongqiao/IdeaProjects/FIFA2023PlayerScoutingSystem/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+<module external.linked.project.id="root [file:/Users/chubby/IdeaProjects/FIFA2023PlayerScoutingSystem/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_X">
     <output url="file://$MODULE_DIR$/../../target/scala-2.13/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/scala-2.13/test-classes" />
     <exclude-output />
@@ -22,6 +22,7 @@
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-core:2.13.4:jar" level="project" />
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-databind:2.13.4.2:jar" level="project" />
     <orderEntry type="library" name="sbt: com.fasterxml.jackson.module:jackson-module-scala_2.13:2.13.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.albfernandez:juniversalchardet:2.4.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.github.fommil.netlib:core:1.1.2:jar" level="project" />
     <orderEntry type="library" name="sbt: com.github.joshelser:dropwizard-metrics-hadoop-metrics2-reporter:0.1.2:jar" level="project" />
     <orderEntry type="library" name="sbt: com.github.luben:zstd-jni:1.5.2-1:jar" level="project" />
@@ -205,6 +206,8 @@
     <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.13.10:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalanlp:breeze-macros_2.13:1.2:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalanlp:breeze_2.13:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatra:scalatra-common_2.13:2.8.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalatra:scalatra_2.13:2.8.4:jar" level="project" />
     <orderEntry type="library" name="sbt: org.slf4j:jcl-over-slf4j:1.7.32:jar" level="project" />
     <orderEntry type="library" name="sbt: org.slf4j:jul-to-slf4j:1.7.32:jar" level="project" />
     <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.35:jar" level="project" />
